@@ -1,0 +1,38 @@
+.background-image {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+.intro-presentation {
+    padding-top: 10%;
+}
+.profile-image {
+    width: 100%
+}
+.profile-introduction {
+    word-wrap: break-word;
+    color: white;
+    text-align: justify;
+}
+.about-header {
+    text-align: center;
+}
+.about-info {
+    word-wrap: break-word;
+    padding-top: 10%;
+}
+.about-me {
+  height: 100vh;
+  margin-top: 20%;
+}
+.resume {
+  height: 100vh;
+}
+.resume-header {
+  text-align: center;
+}
+.resume-info {
+  word-wrap: break-word;
+  padding-top: 10%;
+}
