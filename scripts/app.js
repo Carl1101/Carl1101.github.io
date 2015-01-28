@@ -8,7 +8,7 @@
  *
  * Main module of the application.
  */
-angular
+ var myApp = angular
   .module('carl1101githubioApp', [
     'ngAnimate'
   ]);
