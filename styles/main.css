@@ -37,3 +37,9 @@
   word-wrap: break-word;
   padding-top: 10%;
 }
+.division-line {
+  border: none;
+  color: black;
+  background-color: black;
+  height: 2px;
+}
