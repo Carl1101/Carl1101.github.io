@@ -1,9 +1,3 @@
-.background-image {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-}
 .intro-presentation {
     padding-top: 10%;
 }
@@ -12,19 +6,26 @@
     border-radius: 180px;
 }
 .profile-introduction {
-    padding-top: 8%;
     word-wrap: break-word;
-    color: white;
+    color: rgba(0, 0, 0, 0.7);
     text-align: justify;
-    font-size: large;
-    font-style: italic;
+    font-size: x-large;
+    letter-spacing: 0.05em;
+    line-height: 35px;
 }
 .about-header {
     text-align: center;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.7);
 }
 .about-info {
     word-wrap: break-word;
     padding-top: 10%;
+    font-size: x-large;
+    text-align: justify;
+    letter-spacing: 0.05em;
+    line-height: 35px;
+    color: rgba(0, 0, 0, 0.7);
 }
 .about-me {
     height: 100vh;
@@ -35,14 +36,14 @@
 }
 .resume-header {
     text-align: center;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.7);
 }
 .resume-info {
     word-wrap: break-word;
     padding-top: 10%;
 }
-.division-line {
-    border: none;
-    color: black;
-    background-color: black;
-    height: 2px;
+.division-design {
+    width: 290px;
+    padding-bottom: 25px;
 }
