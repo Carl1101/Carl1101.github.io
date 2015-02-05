@@ -8,13 +8,16 @@
     padding-top: 10%;
 }
 .profile-image {
-    width: 100%
+    width: 100%;
+    border-radius: 180px;
 }
 .profile-introduction {
-    padding-top: 5%;
+    padding-top: 8%;
     word-wrap: break-word;
     color: white;
     text-align: justify;
+    font-size: large;
+    font-style: italic;
 }
 .about-header {
     text-align: center;
@@ -24,22 +27,22 @@
     padding-top: 10%;
 }
 .about-me {
-  height: 100vh;
-  margin-top: 20%;
+    height: 100vh;
+    margin-top: 20%;
 }
 .resume {
-  height: 100vh;
+    height: 100vh;
 }
 .resume-header {
-  text-align: center;
+    text-align: center;
 }
 .resume-info {
-  word-wrap: break-word;
-  padding-top: 10%;
+    word-wrap: break-word;
+    padding-top: 10%;
 }
 .division-line {
-  border: none;
-  color: black;
-  background-color: black;
-  height: 2px;
+    border: none;
+    color: black;
+    background-color: black;
+    height: 2px;
 }
