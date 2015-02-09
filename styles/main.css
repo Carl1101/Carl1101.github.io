@@ -44,55 +44,74 @@
     padding-top: 10%;
 }
 .resume-title {
-  text-align: center;
-  font-size: 35px;
-  color: rgba(0, 0, 0, 0.7);
-} 
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.7);
+}
 .resume-comfort-title {
-  font-size: 20px;
-  text-align: center;
-  color: rgba(0, 0, 0, 0.7);
-} 
+    font-size: 20px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.7);
+}
 .resume-comfort-list {
-  padding-top: 5%;
-  padding-left: 30%;
-} 
+    padding-top: 5%;
+    padding-left: 30%;
+}
 .resume-experience-title {
-  font-size: 20px;
-  text-align: center;
-  color: rgba(0, 0, 0, 0.7);
-} 
+    font-size: 20px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.7);
+}
 .resume-experience-list {
-  padding-top: 5%;
-  padding-left: 30%;
+    padding-top: 5%;
+    padding-left: 30%;
 }
 .resume-info {
-  padding-top: 5%;
+    padding-top: 5%;
 }
 .resume-experience-item {
-  padding-bottom: 2%;
+    padding-bottom: 2%;
 }
 .resume-work-experience-title {
-  font-size: 20px;
-  color: rgba(0, 0, 0, 0.7);
-  font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: bold;
 }
 .resume-work-experience-list {
-  list-style-type: none;
-  padding-top: 35px;
+    list-style-type: none;
+    padding-top: 35px;
 }
 .resume-work-experience-item {
-  padding-bottom: 8%;
+    padding-bottom: 8%;
 }
 .resume-work-experience-info {
-  word-wrap: break-word;
-  font-size: medium;
-  text-align: justify;
-  letter-spacing: 0.02em;
-  line-height: 30px;
-  color: rgba(0, 0, 0, 0.6);
+    word-wrap: break-word;
+    font-size: medium;
+    text-align: justify;
+    letter-spacing: 0.02em;
+    line-height: 30px;
+    color: rgba(0, 0, 0, 0.6);
 }
 .resume-work-experience-subtitle {
-  color: rgba(0, 0, 0, 0.6);
-  font-weight: bold;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: bold;
+}
+.contact {
+    margin-bottom: 8%;
+}
+.contact-information {
+  padding-top: 5%;
+  list-style-type: none; 
+}
+.contact-information-item {
+  padding-bottom: 5%;
+  font-size: medium;
+}
+.contact-title {
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.email-address {
+    font-weight: bold;
 }
