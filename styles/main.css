@@ -43,10 +43,6 @@
     word-wrap: break-word;
     padding-top: 10%;
 }
-.division-design {
-    width: 290px;
-    padding-bottom: 25px;
-}
 .resume-title {
   text-align: center;
   font-size: 35px;
@@ -75,4 +71,28 @@
 }
 .resume-experience-item {
   padding-bottom: 2%;
+}
+.resume-work-experience-title {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: bold;
+}
+.resume-work-experience-list {
+  list-style-type: none;
+  padding-top: 35px;
+}
+.resume-work-experience-item {
+  padding-bottom: 8%;
+}
+.resume-work-experience-info {
+  word-wrap: break-word;
+  font-size: medium;
+  text-align: justify;
+  letter-spacing: 0.02em;
+  line-height: 30px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.resume-work-experience-subtitle {
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: bold;
 }
